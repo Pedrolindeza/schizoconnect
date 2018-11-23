@@ -1,0 +1,1294 @@
+study,projectid,description,subjectid,age,sex,dx
+fBIRNPhaseII__0010,9610,"NA",000301882920,33,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000303269784,24,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000303851049,30,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000304253859,24,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000305738011,31,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000308150214,24,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000308339072,23,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000310542253,23,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000311228084,21,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000311987949,20,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000314025202,19,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000316805394,58,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000324094767,21,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000324203550,24,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000324820801,21,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000327099741,27,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000330475699,23,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000331146774,30,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000331496497,52,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000333525993,21,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000337412566,27,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000345930547,54,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000347539107,34,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000353528637,60,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000366203456,20,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000367047295,22,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000368723909,29,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000372130786,21,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000373206786,27,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000373694353,29,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000376668598,24,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000379407687,19,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000388045207,21,female,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000389506759,26,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000393763914,19,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000399869215,33,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000500882566,37,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000502083470,27,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000519599266,48,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000541655453,50,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000550563000,24,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000571198978,50,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000572181428,23,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000574571856,43,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000578161058,50,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000584487897,45,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000587449609,46,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000593649411,52,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000657142685,55,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000670986943,42,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000679796185,46,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000682662487,35,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000706807861,50,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000709746156,51,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000711939506,24,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000715996350,50,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000718098178,52,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000718954687,26,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000719067395,43,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000719453561,28,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000719947591,42,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000720599068,26,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000721970626,30,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000731143321,28,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000732366733,43,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000736478641,31,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000738039527,30,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000742488013,18,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000743851709,28,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000744112205,22,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000745091175,40,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000753981905,49,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000760325887,37,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000775074259,18,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000780736779,52,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000794678212,48,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000794935419,59,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000900369824,49,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000911620924,29,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000912442832,32,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000916471114,45,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000920416589,48,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000924931309,44,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000928999279,29,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000931521065,28,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000933160136,30,female,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000934691111,59,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000934994990,34,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000938883362,34,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000939176033,46,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000941215191,30,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000945426716,34,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000960420899,42,female,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000960528669,53,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000961640983,43,female,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000961719234,47,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000966900632,27,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000969574045,49,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",000969997391,40,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000975312606,45,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000976562096,45,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000981971873,29,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000981972381,24,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000988080098,41,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",000991278873,41,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000995235335,44,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000998041611,53,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",000998262706,51,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",001005725953,49,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001009914240,28,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001012126889,63,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001012753423,20,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001015956739,44,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001017196728,33,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001020948255,21,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001021160062,37,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001025290760,27,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001025550152,38,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001025797909,30,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001028614244,52,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001029291693,27,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001029798240,55,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001037881059,27,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001038889530,39,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001044385032,21,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001046143247,50,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001050720368,31,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001053294261,31,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001059709071,27,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001063297025,19,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001071071414,51,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001071753990,38,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001074909456,27,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001083789439,24,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001084262659,22,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001091728827,51,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001094450869,26,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001096709026,61,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001200635031,34,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001205087078,48,female,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",001206413091,28,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001210061669,33,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001210568466,20,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001223779757,26,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001224028509,26,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001230208362,29,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001230749717,44,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001233149701,55,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001239290481,39,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",001239527756,31,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001240781939,45,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",001244211548,26,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001244495680,40,female,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",001248496933,50,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001249602022,25,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001254067153,48,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001254743628,38,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001256872619,35,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001257274853,43,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001257603978,31,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001260545287,33,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001265100168,28,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001276888136,19,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001279409395,53,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001280987447,21,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001283563299,32,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001284588733,42,female,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",001286477714,27,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001287472975,22,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001292033474,40,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001302126356,42,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001308617997,37,female,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",001310294272,45,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",001316685511,25,female,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",001323840500,27,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001328250412,27,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001333447637,23,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001333858621,29,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001336334148,41,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001340355387,52,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001341794849,52,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001344862671,47,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001344969390,20,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001346955338,49,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001347211918,31,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001348605361,46,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001353104446,39,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001355112284,24,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001357122143,21,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001357578816,38,female,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",001367422990,25,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001367824459,22,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001371194406,30,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001372722980,28,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001373378706,47,female,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",001377786485,49,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001378009787,52,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001384831858,36,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001394913852,29,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001801392785,61,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001806046107,42,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001808012216,47,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001811344398,46,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001816033517,25,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001832674707,42,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001835089949,51,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001839278328,45,female,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001842259648,40,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001846482097,33,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001849667681,35,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001854193267,40,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001861720348,43,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001866093123,47,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001868824349,57,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001869183463,58,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001870948046,32,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001876182454,50,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001876264214,44,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001879352377,45,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001883718728,65,female,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001884195185,22,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001888339354,49,male,Schizoaffective
+fBIRNPhaseII__0010,9610,"NA",001889324948,58,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001891733949,47,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001896831287,45,male,Schizophrenia_Strict
+fBIRNPhaseII__0010,9610,"NA",001897672076,29,male,No_Known_Disorder
+fBIRNPhaseII__0010,9610,"NA",001899862363,23,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036106,21,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036109,32,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036111,24,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036119,49,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036123,30,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036127,27,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036137,35,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036140,37,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036143,61,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036153,25,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036196,27,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036200,51,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036206,42,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036208,22,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036209,31,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036234,24,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036246,,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036253,46,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036254,37,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036255,31,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036261,45,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036262,26,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036267,27,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036270,22,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036274,27,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036279,22,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036284,39,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036287,58,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036288,22,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036289,32,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036290,48,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036294,21,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036298,28,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036301,28,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036308,26,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036309,28,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036313,22,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036315,20,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036317,19,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036320,30,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036342,51,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036353,33,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036370,37,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036379,20,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036381,31,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036383,39,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036394,39,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036395,26,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036401,21,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036402,50,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036404,49,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036410,53,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036415,20,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036420,44,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036421,19,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036427,52,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036428,24,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036445,19,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036446,24,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036447,29,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036448,22,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036452,19,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036453,19,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036454,18,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036457,23,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036462,19,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036463,18,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036466,19,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036467,18,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036468,19,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036469,19,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036475,18,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036476,18,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036477,46,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036491,24,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036499,31,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036500,22,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036501,29,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036503,23,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036504,22,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036513,51,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036514,57,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036515,43,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036516,23,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036517,31,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036518,50,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036519,30,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036520,27,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036521,54,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036523,19,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036107,28,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036128,31,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036129,19,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036131,23,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036133,28,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036136,41,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036157,39,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036162,26,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036169,23,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036170,21,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036171,23,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036185,35,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036188,26,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036192,45,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036197,26,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036199,24,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036201,24,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036203,27,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036213,36,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036216,20,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036218,21,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036228,25,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036230,27,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036232,32,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036236,23,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036238,44,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036247,45,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036248,19,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036249,18,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036256,28,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036269,24,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036276,45,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036292,50,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036293,26,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036299,24,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036304,24,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036314,41,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036326,35,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036330,27,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036351,26,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036358,48,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036359,48,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036366,19,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036369,48,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036388,19,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036390,23,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036403,30,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036405,34,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036425,38,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036429,43,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036436,49,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036442,39,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036451,38,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036455,30,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036458,48,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036472,60,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036473,56,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036484,28,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036489,18,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036498,58,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036115,41,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036132,42,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036135,44,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036138,37,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036142,40,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036179,46,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036182,47,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036190,24,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036193,34,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036194,39,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036195,46,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036204,21,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036205,34,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036210,45,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036212,47,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036214,45,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036217,46,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036219,47,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036231,51,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036235,50,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036240,35,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036241,22,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036245,42,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036252,40,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036259,50,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036263,40,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036264,47,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036280,20,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036281,42,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036285,44,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036291,43,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036297,25,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036300,21,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036310,35,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036311,48,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036312,46,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036321,46,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036325,28,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036328,47,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036329,45,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036331,37,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036334,49,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036336,27,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036338,51,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036344,23,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036345,40,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036357,46,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036377,42,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036385,56,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036393,36,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036409,42,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036412,22,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036417,57,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036419,44,female,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036424,42,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036441,50,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036461,37,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036470,28,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036480,26,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036481,21,female,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036492,46,male,Schizophrenia_Broad
+MCICShare,5720,"MCIC",A00036496,36,male,No_Known_Disorder
+MCICShare,5720,"MCIC",A00036497,23,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00000159,49,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00000385,43,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00000828,27,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00000844,29,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00000860,40,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00000865,44,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00000984,46,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00001048,40,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00001271,44,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00001530,32,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00001853,30,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00002191,16,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00003162,18,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00003413,26,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00003684,27,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00003754,40,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00003880,28,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00005037,19,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00005153,38,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00005231,58,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00005936,20,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00006931,65,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00006942,53,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00007343,52,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00007401,41,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00007470,23,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00007745,21,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00007883,56,female,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00007946,43,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00008015,23,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00008203,36,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00008608,34,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00008965,28,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00009160,19,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00009357,21,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00009642,21,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00009948,66,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00009949,24,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00010443,22,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00010600,49,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00011115,19,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00011415,34,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00011655,55,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00011739,23,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00012180,27,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00012617,31,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00013059,55,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00013446,33,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00013663,49,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00013748,26,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00014509,36,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00014887,20,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00015272,44,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00015328,27,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00015581,23,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00016346,26,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00016646,47,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00016806,29,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00017005,19,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00017368,18,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00017500,27,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00017691,32,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00017726,32,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00017896,48,female,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00017910,40,female,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00017937,29,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00018140,36,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00018145,23,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00018150,49,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00018235,25,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00018239,64,female,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00018253,31,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00018288,60,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00018370,63,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00018451,57,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00018514,47,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00018851,49,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00018872,52,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019018,50,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019128,44,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019139,49,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019217,48,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019343,31,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019365,48,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019611,46,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019612,21,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019613,47,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019681,57,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019803,56,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019819,31,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019877,24,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019900,36,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019941,24,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019942,52,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00019943,34,female,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00020630,40,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00020883,48,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00021034,29,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00021676,23,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00022515,48,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00024113,51,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00024926,40,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00025493,27,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00026996,27,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00027387,53,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00027434,53,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00027498,27,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00027520,32,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00027827,25,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00027838,28,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00027839,24,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00027978,63,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00028134,28,female,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00028139,26,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00028324,34,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00028349,51,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00028507,20,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00028599,26,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00028685,24,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00028885,22,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00029045,19,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00031249,43,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00031279,46,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00031429,37,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00031788,60,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00031831,19,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00031888,57,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00032885,22,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00033646,37,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00033766,19,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00034092,24,female,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00034096,59,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00034378,21,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00034389,27,female,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00034392,29,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00035022,39,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00035552,41,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00035915,20,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00036067,52,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00036590,21,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00036652,32,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00036653,40,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00036654,41,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00036657,55,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00036668,38,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00036847,29,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037136,54,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037137,26,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037139,35,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037140,51,female,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037141,44,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037145,55,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037177,53,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037200,57,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037613,63,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037628,49,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037754,50,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037812,40,female,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037847,43,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00037871,21,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00038122,30,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00038436,45,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00038770,22,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00039190,34,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00039384,37,male,No_Known_Disorder
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00039430,47,male,Schizophrenia_Broad
+BrainGluSchi,2079,glutamate+glutamine+neurometabolites,A00039491,55,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00000300,36,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00000368,52,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00000456,53,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00000541,48,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00000838,29,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00000909,27,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00001181,32,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00001243,28,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00001251,53,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00001452,33,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00002337,,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00002405,27,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00002480,66,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00003150,32,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00004087,44,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00004507,57,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00006754,19,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00007409,48,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00009207,,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00009280,23,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00009656,63,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00009946,35,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00010150,43,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00010684,55,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00011107,53,female,Bipolar_Disorder
+COBRE,1139,"COBRE",A00011265,22,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00011725,49,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00012995,49,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00013140,35,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00013363,44,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00013816,24,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00014120,38,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00014175,52,female,Schizoaffective
+COBRE,1139,"COBRE",A00014225,41,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00014522,65,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00014590,64,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00014607,29,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00014636,53,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00014719,45,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00014804,30,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00014830,32,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00014898,27,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00015201,25,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00015518,60,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00015648,36,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00015759,54,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00015826,27,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00016197,21,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00016199,,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00016720,40,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00016723,40,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00017147,49,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00017294,59,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00018129,42,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00018317,57,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00018403,29,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00018553,34,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00018598,49,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00018979,50,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00019293,48,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00019349,36,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00019750,19,male,Schizoaffective
+COBRE,1139,"COBRE",A00019888,48,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00020414,37,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00020416,50,male,Schizoaffective
+COBRE,1139,"COBRE",A00020602,22,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00020787,22,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00020805,27,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00020895,43,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00020968,29,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00020984,31,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00021058,37,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00021072,45,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00021081,24,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00021085,23,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00021145,25,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00021591,19,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00021598,19,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00022400,25,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00022490,24,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00022500,34,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00022509,27,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00022592,53,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00022653,30,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00022687,18,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00022727,39,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00022729,47,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00022773,48,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00022810,35,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00022835,28,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00022837,26,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00022915,45,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00023095,21,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00023120,47,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00023131,36,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00023132,49,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00023158,20,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00023243,41,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00023246,25,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00023330,29,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00023337,21,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00023366,47,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00023590,22,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00023730,51,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00023750,51,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00023800,48,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00023848,38,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00023866,23,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00024160,23,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00024198,55,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00024228,56,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00024301,25,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00024372,23,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00024446,41,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00024535,26,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00024546,23,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00024568,20,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00024663,63,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00024684,24,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00024932,25,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00024953,43,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00024955,59,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00024959,34,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00025969,26,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00026907,43,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00026945,39,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00027119,47,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00027391,51,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00027410,27,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00027487,53,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00027537,25,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00027616,52,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00027755,24,male,Schizoaffective
+COBRE,1139,"COBRE",A00027787,34,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00027969,43,male,Schizoaffective
+COBRE,1139,"COBRE",A00028052,34,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00028189,39,male,Schizoaffective
+COBRE,1139,"COBRE",A00028303,26,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00028402,44,male,Schizoaffective
+COBRE,1139,"COBRE",A00028404,23,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00028405,51,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00028408,28,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00028409,31,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00028410,40,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00028805,20,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00028806,26,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00029226,37,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00029452,39,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00029486,57,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00031271,52,female,Schizoaffective
+COBRE,1139,"COBRE",A00031478,43,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00031597,50,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00031764,37,female,No_Known_Disorder
+COBRE,1139,"COBRE",A00033214,54,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00033648,21,male,Bipolar_Disorder
+COBRE,1139,"COBRE",A00033686,53,male,Bipolar_Disorder
+COBRE,1139,"COBRE",A00033715,59,female,Bipolar_Disorder
+COBRE,1139,"COBRE",A00033749,38,female,Bipolar_Disorder
+COBRE,1139,"COBRE",A00033812,57,female,Bipolar_Disorder
+COBRE,1139,"COBRE",A00033994,64,male,Bipolar_Disorder
+COBRE,1139,"COBRE",A00034214,42,male,Bipolar_Disorder
+COBRE,1139,"COBRE",A00034381,53,male,Bipolar_Disorder
+COBRE,1139,"COBRE",A00035003,26,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00035183,26,female,Bipolar_Disorder
+COBRE,1139,"COBRE",A00035469,,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00035485,39,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00035537,,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00035751,42,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00035836,35,female,Schizoaffective
+COBRE,1139,"COBRE",A00035859,59,male,Schizoaffective
+COBRE,1139,"COBRE",A00036049,57,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00036555,52,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00036844,55,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00036897,41,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00036916,55,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00037007,60,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00037034,22,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00037224,32,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00037238,38,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00037318,53,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00037495,49,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00037564,50,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00037619,55,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00037649,40,female,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00037665,43,male,No_Known_Disorder
+COBRE,1139,"COBRE",A00037854,21,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00038172,30,male,Schizoaffective
+COBRE,1139,"COBRE",A00038441,52,male,Schizophrenia_Strict
+COBRE,1139,"COBRE",A00038624,45,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0005,18,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0196,25,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0239,26,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0311,15,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0325,23,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0385,16,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0409,24,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0475,21,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0486,19,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0504,22,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0556,25,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0600,18,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0683,20,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0717,19,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0857,18,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0873,24,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0949,22,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0993,25,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1085,16,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1132,17,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1197,19,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1300,22,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1492,22,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1496,18,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1549,17,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1572,24,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1709,23,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1749,18,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1960,19,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2038,23,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2159,30,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2188,20,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2192,27,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2199,17,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2263,25,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2321,21,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2332,14,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2430,28,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2442,22,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2485,22,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2572,21,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2592,22,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2606,17,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2673,19,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2762,16,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2825,26,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2856,22,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2881,18,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2890,16,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2985,21,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3037,26,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3125,21,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3151,26,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3205,23,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3421,24,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3493,24,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3499,20,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3615,25,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3803,20,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3915,15,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3930,19,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3945,21,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC3958,23,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4094,24,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4183,25,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4189,21,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4202,25,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4330,19,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4365,21,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4378,27,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4431,18,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4513,21,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4526,17,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4775,25,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4860,27,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4882,15,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4896,26,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4907,22,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5000,20,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5006,21,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5041,24,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5065,22,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5111,20,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5134,13,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5162,23,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5215,14,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5258,25,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5345,28,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5479,22,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5529,19,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5562,14,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5636,19,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5708,27,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5734,23,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5884,25,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5892,26,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5989,22,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6038,23,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6115,21,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6167,24,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6183,24,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6192,14,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6218,23,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6238,29,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6264,23,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6287,18,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6352,21,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6437,27,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6476,22,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6584,18,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6606,23,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6609,15,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6681,29,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6687,19,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6776,16,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6823,20,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6838,20,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6858,23,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6968,19,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7016,16,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7019,16,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7153,20,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7233,24,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7234,24,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7295,19,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7335,18,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7411,25,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7436,21,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7493,30,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7537,18,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7557,26,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7563,28,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7570,20,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7583,25,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7648,18,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7760,23,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7774,27,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7805,22,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7866,24,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7872,25,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7910,22,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7911,25,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7926,21,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7959,26,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7960,22,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8016,20,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8078,19,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8165,21,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8225,21,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8267,16,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8312,16,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8468,23,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8599,20,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8726,22,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8804,14,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8852,13,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8913,20,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8962,19,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9044,20,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9137,18,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9158,16,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9172,16,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9466,21,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9492,20,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9540,22,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9555,17,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9628,18,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9671,24,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9673,24,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9704,15,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9744,20,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9843,19,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9878,18,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9882,27,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9911,19,male,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9940,23,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9958,23,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM0413,40,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM0909,50,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1001,48,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1002,46,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1003,21,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1005,37,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1006,38,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1007,43,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1008,20,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1009,22,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1010,33,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1011,41,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1013,25,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1014,34,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1015,24,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1016,28,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1017,56,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1019,40,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1020,23,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1021,35,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1022,22,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1023,23,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1024,45,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1025,47,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1029,50,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1030,38,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1032,44,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1035,46,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1036,39,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1037,51,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1039,20,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1040,63,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1041,57,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1042,60,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1043,40,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1044,31,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1045,44,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1046,22,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1050,54,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1051,34,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1060,58,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1061,23,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1063,47,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1064,23,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1068,21,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1069,59,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1070,53,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1071,39,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1072,39,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1073,46,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1074,27,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1076,41,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1077,39,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1078,22,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1080,54,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1081,55,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1082,47,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1083,21,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1085,22,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1086,23,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1087,50,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1088,43,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1089,43,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2001,30,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2002,21,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2003,22,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2004,22,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2005,24,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2006,25,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2007,36,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2008,50,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2009,26,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2010,26,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2011,24,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2012,37,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2013,22,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2014,56,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2015,39,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2016,50,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2017,26,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2018,43,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2020,37,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2022,51,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2025,43,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2028,56,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2029,33,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2031,24,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2040,56,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2043,34,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2050,53,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2052,58,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2053,64,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2054,34,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2056,30,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2057,49,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2058,46,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2060,31,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2061,38,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2062,34,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2063,60,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2064,56,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2065,49,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2066,24,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2067,23,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2069,37,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2070,34,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2071,54,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2072,43,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2073,23,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2074,20,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2075,57,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2076,21,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2077,27,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2078,37,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2079,48,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2080,35,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2082,45,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2083,34,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2084,64,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2085,39,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2086,66,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2088,34,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2089,63,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2090,26,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2091,26,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2092,44,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2094,46,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2095,60,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2096,41,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2097,63,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2098,67,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2099,65,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2102,28,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2103,30,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2104,29,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2105,22,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2106,23,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2107,48,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2109,48,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2110,45,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2111,28,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM3215,39,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM3356,24,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM3358,24,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM3365,20,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM3455,43,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4038,57,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4153,27,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4194,51,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4329,42,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4405,46,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4443,26,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4482,61,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4522,27,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4558,22,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4618,26,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4756,40,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4764,51,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4869,56,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM4902,42,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM5079,50,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM5219,31,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM5231,26,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM5277,36,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM5747,51,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM5860,54,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM5946,35,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM6112,46,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM6211,59,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM6224,49,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM6285,61,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM6385,46,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM6433,43,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM6450,36,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM6664,50,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM7298,22,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM7300,42,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM7365,48,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM7465,40,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM7595,40,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM7655,41,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM8228,58,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM8247,40,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM8352,42,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM8356,48,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM8365,41,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM8659,52,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM8724,25,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM9055,21,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM9107,31,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM9324,24,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM9798,49,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM9839,40,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM9862,29,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0197,20,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0202,23,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0212,23,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0432,22,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC0713,20,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1265,19,male,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1381,20,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1386,20,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1444,22,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC1570,27,male,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2191,20,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC2831,19,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC4498,21,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5721,22,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5994,18,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7028,27,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC7427,22,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8323,21,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8823,16,female,Sibling_of_Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9301,21,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9737,27,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC9846,20,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1031,31,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1038,32,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1049,54,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM1065,32,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2030,48,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM2087,25,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM5920,41,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM6683,31,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM7112,57,female,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",NM9000,41,male,Schizophrenia_Strict
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8197,25,female,Sibling_of_No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC5776,22,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC6926,19,female,No_Known_Disorder
+NUSDAST,777,"NUSDAST (siblings and longitudinal data)",CC8445,21,female,Sibling_of_No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH1840,28,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH2917,28,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH3098,37,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH3183,31,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH5994,21,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7059b,33,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7098a,20,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7131b,40,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7172a,31,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7176a,29,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7193b,40,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7202b,25,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7259b,32,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7264b,45,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7272b,30,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7292b,46,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7307a,34,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7316a,35,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7317b,21,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7353a,29,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7458a,43,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7496a,44,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7510b,33,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7539a,23,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7546a,23,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7562b,34,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7567b,45,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7614b,26,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7616b,22,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7637,38,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7668a,42,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7674b,31,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7683a,20,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7684a,32,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7692a,23,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7718b,33,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7724b,39,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7779b,31,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7781a,19,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7814b,46,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7831a,25,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7852a,37,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7869b,33,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7875b,36,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7877a,46,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7912a,45,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7930a,23,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7944a,28,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH7957,35,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8001a,26,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8004a,36,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8033a,28,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8041b,35,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8043b,34,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8095a,30,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8126b,28,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8201a,32,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8266b,32,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8284b,24,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8288a,43,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8301a,23,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8335b,23,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8350b,40,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8357,25,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8402b,34,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8410a,22,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8413a,23,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8461a,42,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8476a,44,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8508a,24,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8519a,22,female,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8541b,38,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8559b,25,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8577b,44,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8593b,24,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8639a,42,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8665b,29,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8698b,30,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8853b,21,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8860b,27,male,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8876b,35,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8883a,31,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8914b,33,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8926b,22,female,No_Known_Disorder
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8930a,40,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8937a,24,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8941a,38,male,Schizophrenia_Strict
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8959a,25,male,Schizoaffective
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8539b,45,male,Schizoaffective
+NMorphCH,778,"NU (baseline and after 2 years), T2, DTI, resting-state fMRI and n-back task fMRI. Clinical data includes symptom and mood assessments. Cognitive data includes neuropsychological assessments on working memory, episodic memory, and executive function domains.",CH8701a,42,female,Schizophrenia_Strict
