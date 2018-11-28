@@ -24,7 +24,7 @@ df5 = pd.read_table("schizoconnect/" + "NU" +".txt", sep = ',', header = 0, low_
 df6 = pd.read_table("schizoconnect/" + "Nusdast" +".txt", sep = ',', header = 0, low_memory = False)
 
 meta = pd.read_table("schizoconnect/" + "MetaData" +".txt", sep = ',', header = 0, low_memory = False)
-MetaData = meta.drop(['study','projectid','description','age','sex'], axis = 1)
+MetaData = meta.drop(['study','projectid','description'], axis = 1)
 
 dfs = [df1,df2,df3,df4,df5,df6]
 
